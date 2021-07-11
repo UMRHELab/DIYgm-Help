@@ -15,5 +15,5 @@ include:
 
 theme: jekyll-theme-slate
 
-name: DIYgm Help
-title: null
+github:
+  is_project_page: false
