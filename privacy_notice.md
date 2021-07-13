@@ -5,4 +5,6 @@ This privacy notice discloses privacy practices for the DIYgm app on iOS and And
 
 ## Information Collection and Use
 
-The DIYgm app uses Google Location Services to provide map data to users. All information collect is soley under the responsibility of the Google Maps service.
+The DIYgm app uses Google Location Services to provide map data to users. All information collected is soley under the responsibility of the Google Maps service. The DIYgm team does not store or collect any data from users.
+
+
